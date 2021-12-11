@@ -1,2 +1,2 @@
 pacman -Syu --noconfirm
-pacman -S git nodejs --noconfirm --needed
+pacman -S base-devel git nodejs --noconfirm --needed
